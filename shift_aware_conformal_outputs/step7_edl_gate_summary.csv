@@ -1,0 +1,13 @@
+gate,delta,dataset,threshold,trigger_rate
+Energy,0.05,clean_test_id,-5.35503,0.0524
+Energy,0.05,svhn_ood,-5.35503,0.2403580208973571
+EDL,0.05,clean_test_id,-10.020047,0.0554
+EDL,0.05,svhn_ood,-10.020047,0.0017670559311616472
+Combined,0.05,clean_test_id,2.2816072,0.0513
+Combined,0.05,svhn_ood,2.2816072,0.2626382913337431
+Energy,0.1,clean_test_id,-6.272094,0.1062
+Energy,0.1,svhn_ood,-6.272094,0.6057160417947142
+EDL,0.1,clean_test_id,-10.028753,0.102
+EDL,0.1,svhn_ood,-10.028753,0.005762138905961893
+Combined,0.1,clean_test_id,1.9510229,0.1056
+Combined,0.1,svhn_ood,1.9510229,0.6383297480024586
