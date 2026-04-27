@@ -10,4 +10,10 @@ This project uses three datasets: CIFAR-10, CIFAR-10-C, and SVHN.
 All dataset files should be placed inside the following folder:
 
 ```text
+
 shift_aware_conformal_data/
+├── cifar-10-batches-py/
+├── CIFAR-10-C/
+├── cifar-10-python.tar.gz
+├── CIFAR-10-C.tar
+└── test_32x32.mat
